@@ -4,5 +4,5 @@ public class Bienvenido {
         System.out.println("Mi nombre es Miguel");
         System.out.println("Mi edad es 25 años");
     }
-    
+
 }
